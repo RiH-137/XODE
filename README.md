@@ -1,2 +1,2 @@
 # XODE
-Online contest website.
+Online contest news website.
